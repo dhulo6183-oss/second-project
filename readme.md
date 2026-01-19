@@ -1,11 +1,33 @@
-🧩 Features Explained
-🔹 1. Generate a Pattern
+Skip to content
+Chat history
 
-User enters the number of rows
 
-Program prints a right-angled triangle star pattern
 
-Example:
+
+📌 Menu-Driven Python Program
+📖 Project Overview
+This project is a menu-driven Python application that allows users to perform multiple operations using a simple command-line interface. The program runs continuously until the user chooses to exit.
+
+It demonstrates the use of:
+
+Loops
+
+Conditional statements
+
+User input handling
+
+Basic logic building in Python
+
+
+⚙️ Features
+🔹 1. Pattern Generation
+Generates a right-angled star pattern
+
+User defines the number of rows
+
+Useful for understanding nested loops
+
+Example Output:
 
 *
 **
@@ -13,15 +35,12 @@ Example:
 ****
 *****
 
-🔹 2. Analyze a Range of Numbers
+🔹 2. Range Analysis
+Accepts a start and end number
 
-User enters a start and end value
+Identifies whether each number is Odd or Even
 
-Program:
-
-Identifies Odd or Even numbers
-
-Calculates the sum of the range
+Calculates the sum of all numbers in the given range
 
 Example Output:
 
@@ -29,38 +48,35 @@ Number is Odd 2
 Number is Even 1
 Sum is: 3
 
-🔹 3. Exit
+🔹 3. Exit Option
+Allows the user to safely terminate the program
 
-Exits the program safely
+Displays a friendly exit message
 
-Displays a friendly Thank you message
+🧠 Program Flow
+Display menu options
 
+Take user input
 
-🎯 Learning Outcomes
+Execute selected operation
 
-By completing this project, you will understand:
-
-Menu-based program design
-
-Loop and condition logic
-
-User input validation basics
-
-Structured Python coding
-
-Console-based application flow
-
-🧠 Future Improvements (Optional)
-
-Input validation for wrong entries
-
-Better Odd/Even message formatting
-
-Add counting of Odd & Even numbers
-
-Convert to function-based program
+Repeat until user chooses Exit
 
 
-👨‍💻 Author
+python 1.py
+🖼️ Screenshots
+Add screenshots inside a folder named screenshots and include them like this:
 
+🚀 Learning Outcomes
+Improved understanding of menu-driven programs
+
+Practical experience with loops and conditions
+
+Better input/output handling in Python
+
+👤 Author
 Dhruv Prajapati
+
+
+
+
