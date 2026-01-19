@@ -27,6 +27,7 @@ Example Output:
 **
 ***
 ****
+*****
 
 
 🔹 2. Range Analysis
