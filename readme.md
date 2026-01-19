@@ -1,10 +1,4 @@
-Skip to content
-Chat history
 
-
-
-
-📌 Menu-Driven Python Program
 📖 Project Overview
 This project is a menu-driven Python application that allows users to perform multiple operations using a simple command-line interface. The program runs continuously until the user chooses to exit.
 
