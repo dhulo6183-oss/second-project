@@ -27,7 +27,7 @@ Example Output:
 **
 ***
 ****
-*****
+
 
 🔹 2. Range Analysis
 Accepts a start and end number
