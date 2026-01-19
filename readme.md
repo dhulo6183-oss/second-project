@@ -1,10 +1,9 @@
+🧩 Features Explained
+🔹 1. Generate a Pattern
 
+User enters the number of rows
 
-🛠 Features
-1️⃣ Generate a Pattern
-Takes the number of rows as input
-
-Prints a right-angled triangle star pattern
+Program prints a right-angled triangle star pattern
 
 Example:
 
@@ -12,56 +11,56 @@ Example:
 **
 ***
 ****
-2️⃣ Analyze a Range of Numbers
-Takes a start and end number as input
+*****
 
-Checks each number in the range and prints whether it is Even or Odd
+🔹 2. Analyze a Range of Numbers
 
-Calculates and displays the sum of all numbers in the given range
+User enters a start and end value
+
+Program:
+
+Identifies Odd or Even numbers
+
+Calculates the sum of the range
 
 Example Output:
 
-Number is Even
-Number is Odd
-Sum is: 15
-3️⃣ Exit
-Gracefully terminates the program
+Number is Odd 2
+Number is Even 1
+Sum is: 3
+
+🔹 3. Exit
+
+Exits the program safely
+
+Displays a friendly Thank you message
 
 
+🎯 Learning Outcomes
 
-▶️ How to Run the Program
-Make sure Python 3 is installed on your system
+By completing this project, you will understand:
 
-Open a terminal or command prompt
+Menu-based program design
 
-Navigate to the project directory
+Loop and condition logic
 
+User input validation basics
 
-python 1.py
-🧠 Concepts Used
-while loop
+Structured Python coding
 
-if-elif-else conditions
+Console-based application flow
 
-User input using input()
+🧠 Future Improvements (Optional)
 
-Arithmetic operations
+Input validation for wrong entries
 
-Pattern printing
+Better Odd/Even message formatting
 
-🚀 Future Improvements
-Add input validation to avoid crashes
+Add counting of Odd & Even numbers
 
-Improve output formatting
+Convert to function-based program
 
-Add more menu options
 
 👨‍💻 Author
+
 Dhruv Prajapati
-
-📄
-
-
-
-
-
