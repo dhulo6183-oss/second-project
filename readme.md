@@ -1,27 +1,22 @@
 
-📖 Project Overview
-This project is a menu-driven Python application that allows users to perform multiple operations using a simple command-line interface. The program runs continuously until the user chooses to exit.
+## 📌 Project Overview
 
-It demonstrates the use of:
+This project is a **menu-driven Python console application** that demonstrates the use of:
 
-Loops
+* Loops (`for`, `while`)
+* Conditional statements
+* User input handling
+* Basic logical operations
 
-Conditional statements
+## 🛠️ Features
 
-User input handling
+### 🔹 Option 1: Generate a Pattern
 
-Basic logic building in Python
+* Accepts number of rows from the user
+* Prints a right-angled triangle star (`*`) pattern
 
+**Example (Rows = 5):**
 
-⚙️ Features
-🔹 1. Pattern Generation
-Generates a right-angled star pattern
-
-User defines the number of rows
-
-Useful for understanding nested loops
-
-Example Output:
 
 *
 **
@@ -30,48 +25,49 @@ Example Output:
 *****
 
 
-🔹 2. Range Analysis
-Accepts a start and end number
+### 🔹 Option 2: Analyze a Range of Numbers
 
-Identifies whether each number is Odd or Even
+* Takes a start and end value
+* Identifies **odd and even numbers** in the range
+* Calculates the **sum of all numbers**
 
-Calculates the sum of all numbers in the given range
+**Example Output:**
 
-Example Output:
-
-Number is Odd 2
-Number is Even 1
+```
+Number is Odd: 2
+Number is Even: 1
 Sum is: 3
+```
 
-🔹 3. Exit Option
-Allows the user to safely terminate the program
+---
 
-Displays a friendly exit message
+### 🔹 Option 3: Exit
 
-🧠 Program Flow
-Display menu options
+* Safely terminates the program with a thank-you message
 
-Take user input
+---
 
-Execute selected operation
+## 🖼️ Program Screenshot
 
-Repeat until user chooses Exit
+Below is the actual output of the program:
 
+![Program Output Screenshot](Screenshot 2026-01-19 174233.png)
 
-python 1.py
-🖼️ Screenshots
-Add screenshots inside a folder named screenshots and include them like this:
+---
 
-🚀 Learning Outcomes
-Improved understanding of menu-driven programs
+## 📚 Concepts Used
 
-Practical experience with loops and conditions
+* `for` loop
+* `while` loop
+* `if-else` conditions
+* User input (`input()`)
+* Menu-driven programming
 
-Better input/output handling in Python
+---
 
-👤 Author
-Dhruv Prajapati
+## 👨‍💻 Author
 
+**Dhruv Prajapati**
 
 
 
