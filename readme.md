@@ -15,7 +15,7 @@ This project is beginner-friendly and demonstrates the use of:
 
 ## 📸 Project Screenshot
 
-![1 Output Screenshort ](screenshot.png)
+![second project Output Screenshort ](screenshot.png)
 
 > The screenshot shows the working of all menu options:
 > - Pattern generation
